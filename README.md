@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/developerdavid2/react-sanity-portfolio/44471b713bcbaf2e1ce90477ac93fd8809c48b76/resources/dev-banner-1.png"  />
+  <img height="150" width="1300" src="https://raw.githubusercontent.com/developerdavid2/react-sanity-portfolio/44471b713bcbaf2e1ce90477ac93fd8809c48b76/resources/dev-banner-1.png"  />
 </div>
 
 ###
