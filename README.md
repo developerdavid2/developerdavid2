@@ -1,136 +1,287 @@
 <div align="center">
-  <img height="425" width="1400" src="https://raw.githubusercontent.com/developerdavid2/react-sanity-portfolio/44471b713bcbaf2e1ce90477ac93fd8809c48b76/resources/dev-banner-1.png"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jacobs%20David&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20Web3%20Builder&descAlignY=51&descAlign=50" width="100%"/>
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thejacobsdavid/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/thejacobscodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/2348102863210" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="hellojacobsdavid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejacobsdavid/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thejacobscodes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jacobscodes.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojacobsdavid@gmail.com)
 
-###
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=developerdavid2.developerdavid2&"  />
+  
+![](https://komarev.com/ghpvc/?username=developerdavid2&style=for-the-badge&color=blueviolet)
+
 </div>
 
-###
+---
 
-<h1 align="center">Design. Code. Deploy.</h1>
+## 👨‍💻 About Me
 
-###
+```typescript
+const jacobsDavid = {
+  role: "Full-Stack Developer",
+  company: "Yeniyan Group",
+  location: "Lagos, Nigeria 🇳🇬",
+  
+  currentFocus: [
+    "Building scalable Web3 applications",
+    "Mastering DevOps & Cloud Infrastructure",
+    "Leading full-stack architecture decisions"
+  ],
+  
+  techStack: {
+    frontend: ["React.js", "Next.js", "TypeScript", "TailwindCSS"],
+    backend: ["Node.js", "Express.js", "tRPC", "REST APIs"],
+    database: ["MongoDB", "PostgreSQL", "Prisma"],
+    web3: ["Wagmi", "Viem", "RainbowKit", "Smart Contracts"],
+    devOps: ["Docker", "GitHub Actions", "CI/CD", "AWS"]
+  },
+  
+  achievements: {
+    performance: "40% reduction in API latency",
+    reliability: "99% transaction success rate",
+    deployment: "Sub-20 second CI/CD pipelines",
+    scale: "50K+ monthly API requests with zero downtime"
+  },
+  
+  funFact: "I turn coffee ☕ into production-ready code 🚀"
+};
+```
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🚀 What I Do
 
-<p align="left">💻 Full Stack Developer | MERN | Next.js | DevOps Learner  <br><br>I build scalable, user-friendly applications and love turning ideas into full-stack solutions.  <br>Currently diving deeper into **Next.js + DevOps** to become a Lead DevOps Engineer 🚀</p>
+<table>
+<tr>
+<td width="50%">
 
-###
+### 💼 Professional Impact
+- 🏗️ Built **12+ production applications** serving thousands of users
+- ⚡ Optimized systems achieving **30-40% performance improvements**
+- 🔗 Developed blockchain apps with **99.8% transaction accuracy**
+- 🚢 Deployed CI/CD pipelines reducing deployment time to **<20 seconds**
+- 📈 Delivered features increasing user engagement by **25%**
 
-<h3 align="left">🛠 Language and tools</h3>
+</td>
+<td width="50%">
 
-###
+### 🎯 Current Goals
+- 🌩️ Deepening expertise in **AWS & cloud architecture**
+- 🐳 Mastering **Kubernetes & container orchestration**
+- 🏗️ Building **microservices architecture**
+- 📊 Implementing **observability & monitoring systems**
+- 🎓 Pursuing **Lead DevOps Engineer** role
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</td>
+</tr>
+</table>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🛠️ Tech Arsenal
 
-###
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & ORM</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>⛓️ Web3 & Blockchain</b></summary>
+<br>
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🐳 DevOps & Cloud</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧪 Testing & Tools</b></summary>
+<br>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=developerdavid2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerdavid2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdavid2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/developerdavid2/developerdavid2/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thejacobsdavid/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/thejacobscodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1336723099693092897" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerdavid2&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=developerdavid2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![SessionlyAI](https://github-readme-stats.vercel.app/api/pin/?username=developerdavid2&repo=sessionlyai&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/developerdavid2)
+[![VOTS](https://github-readme-stats.vercel.app/api/pin/?username=developerdavid2&repo=vots&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/developerdavid2)
+
+</div>
+
+### 🚀 SessionlyAI - AI Video Call Platform
+**Tech Stack:** React | WebRTC | Node.js | Vector Search | AI Agents
+
+- Built real-time voice-agent workflows with **30% latency reduction**
+- Implemented WebRTC infrastructure for seamless video communication
+- Designed scalable backend architecture handling concurrent AI sessions
+
+### 🗳️ VOTS - Decentralized Voting Platform
+**Tech Stack:** Next.js | Wagmi | Viem | Solidity | RainbowKit
+
+- Achieved **99.8% transaction accuracy** on blockchain
+- Integrated secure wallet authentication with multiple providers
+- Built transparent, tamper-proof voting system on Ethereum
+
+---
+
+## 💼 Professional Experience Highlights
+
+```yaml
+Current Role: Full-Stack Developer @ Yeniyan Group (Jul 2025 - Present)
+  - Web3 application development with 30% improved wallet connection speed
+  - 99% transaction success rate across testnet environments
+  - 40% API latency reduction through optimization
+  - 25% increase in platform engagement
+
+Previous: Frontend Developer @ Apollo (Saturn Labs) (Feb - Apr 2025)
+  - 35% improvement in user task efficiency
+  - 20% rise in user sign-ups during beta
+  - 25% reduction in UI render time
+
+Freelance: Full-Stack Developer (Aug 2023 - Present)
+  - 12+ production apps serving 50K+ monthly API requests
+  - Zero downtime deployment record
+  - Sub-20 second CI/CD pipelines
+  - 35% reduction in error rates
+```
+
+---
+
+## 📈 Contribution Activity
+
+<!--START_SECTION:activity-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=developerdavid2&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" width="49%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=developerdavid2&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&combine_all_yearly_contributions=true" width="49%"/>
+</div>
+<!--END_SECTION:activity-->
+
+---
+
+## 🎓 Continuous Learning
+
+- 🎯 **Currently Learning:** Kubernetes, AWS Solutions Architecture, Microservices
+- 📚 **Recent Certifications:** 
+  - Complete Web Development Bootcamp (Udemy)
+  - Programming with JavaScript (Coursera)
+- 🎯 **Next Goals:** AWS Certified Solutions Architect, CKA (Certified Kubernetes Administrator)
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects, especially in Web3, DevOps, and full-stack development!
+
+**💬 Open to:**
+- Full-Stack Development opportunities
+- Web3/Blockchain projects
+- DevOps & Cloud architecture roles
+- Open source collaborations
+- Technical discussions & mentorship
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejacobsdavid/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojacobsdavid@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jacobscodes.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348102863210)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  **⭐ From [developerdavid2](https://github.com/developerdavid2) | Design. Code. Deploy. ⭐**
+  
+  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+  ![Built with Markdown](https://img.shields.io/badge/Built%20with-Markdown-000000?style=for-the-badge&logo=markdown)
+  
+</div>
