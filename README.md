@@ -171,7 +171,9 @@ const jacobsDavid = {
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=developerdavid2&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=developerdavid2&theme=dark&hide_border=true&border_radius=5" height="180" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
@@ -179,14 +181,6 @@ const jacobsDavid = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerdavid2&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerdavid2/developerdavid2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerdavid2/developerdavid2/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developerdavid2/developerdavid2/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
 
