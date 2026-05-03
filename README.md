@@ -37,7 +37,6 @@
 const jacobsDavid = {
   title: "Full Stack Developer",
   location: "Lagos, Nigeria 🇳🇬",
-  company: "Yeniyan Group",
   
   mission: "Building scalable, high-performance applications that drive impact",
   
