@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">🚀 Design. Code. Deploy. 🚀</h1>
+<h1 align="center">🚀 Build. Test. Deploy. 🚀</h1>
 
 ###
 
