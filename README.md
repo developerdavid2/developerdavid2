@@ -42,7 +42,7 @@ const jacobsDavid = {
   
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express", "tRPC", "REST APIs"],
+    backend: ["Node.js", "Express", " Fastify", "Hono", "tRPC", "REST APIs"],
     database: ["MongoDB", "PostgreSQL", "Prisma"],
     web3: ["Wagmi", "Viem", "Smart Contracts", "RainbowKit"],
     devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
