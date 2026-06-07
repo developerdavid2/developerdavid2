@@ -43,14 +43,14 @@ const jacobsDavid = {
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
     backend: ["Node.js", "Express", " Fastify", "Hono", "tRPC", "REST APIs"],
-    database: ["MongoDB", "PostgreSQL", "Prisma"],
+    database: ["MongoDB", "PostgreSQL", "Drizzle", "Prisma"],
     web3: ["Wagmi", "Viem", "Smart Contracts", "RainbowKit"],
     devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
   },
   
   currentlyLearning: ["DevOps", "Cloud Architecture", "Lead Engineering"],
   
-  funFact: "Turning ideas into production apps since 2021 ⚡"
+  funFact: "Turning ideas into production apps since 2020 ⚡"
 };
 ```
 
