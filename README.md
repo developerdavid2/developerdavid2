@@ -170,7 +170,7 @@ const jacobsDavid = {
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developerdavid2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developerdavid2&theme=gotham" alt="GitHub Streak" /></a>
 </div>
 
 ###
