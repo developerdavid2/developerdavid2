@@ -50,7 +50,7 @@ const jacobsDavid = {
   
   currentlyLearning: ["DevOps", "Cloud Architecture", "Lead Engineering"],
   
-  funFact: "Turning ideas into production apps since 2020 ⚡"
+  funFact: "Turning ideas into production apps since 2021 ⚡"
 };
 ```
 
