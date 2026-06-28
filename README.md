@@ -169,8 +169,7 @@ const jacobsDavid = {
 
 ###
 
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developerdavid2&theme=onedark-duo" alt="GitHub Streak" /></a>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developerdavid2&theme=dark-minimalist" alt="GitHub Streak" /></a>
 </div>
 
 ###
