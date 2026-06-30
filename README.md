@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">🚀 Build. Test. Deploy.</h1>
+<h1 align="center">🚀 Build. Test.Deploy.</h1>
 
 ###
 
@@ -58,7 +58,7 @@ const jacobsDavid = {
 
 ###
 
-<h2 align="center">⚡ What I Do ⚡</h2>
+<h2 align="center">⚡ What I Do </h2>
 
 <div align="center">
   
